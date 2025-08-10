@@ -24,6 +24,6 @@ function calcular (operacao) {
                         break;
 
      }
-     document.getElementById('resultado').innerHTML ="o resultado e " + resultado;
+     document.getElementById('resultado').innerHTML ="o resultado é = " + resultado;
 }
 
